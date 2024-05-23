@@ -1,6 +1,6 @@
 # Editable-text-effects-for-Inkscape
 
-With Inkscape version 1.3 (and above) you can make editable text effects.
+With ***Inkscape version 1.3 (and above)*** you can make editable text effects.
 I made some text effects I want to share for learning purposes. Please do not sell them. 
 Inspiration came from images and tutorials on the internet.
 Note that some browsers do not display well some fonts.
