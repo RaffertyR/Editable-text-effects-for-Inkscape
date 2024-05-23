@@ -16,3 +16,5 @@ Save and export to png-file.
 
 Colour palette and background are locked: unlock to change.
 Fonts used here are Lobster, EngravingCC, Badaboom, Open Sans Bold and Comfortaa Light. Please check licenses before using these fonts.
+
+![Editable text effects.jpg](https://github.com/RaffertyR/Editable-text-effects-for-Inkscape/blob/main/Editable%20text%20effects.jpg)
