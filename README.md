@@ -5,7 +5,7 @@ I made some text effects I want to share for learning purposes. Please do not se
 Inspiration came from images and tutorials on the internet.
 Note that some browsers do not display well some fonts.
 
-Instructions:
+***Instructions:***
 To edit the text and/or change the font:
   1) select the '--> edit text here'-object.
   2) open the text tool and change the text and/or font.
