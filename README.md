@@ -6,7 +6,7 @@ Inspiration came from images and tutorials on the internet.
 Note that some browsers do not display well some fonts.
 
 ***Instructions:***
-To edit the text and/or change the font:
+To edit the text and/or change the font in Inkscape:
   1) select the '--> edit text here'-object.
   2) open the text tool and change the text and/or font.
   3) eventually adjust leading, kerning and tracking.
